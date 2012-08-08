@@ -5,4 +5,8 @@ published: true
 
 ## In General
 
-Enter Text in Markdown format.
+* where community is
+* how extensive
+* diagram of area
+* physical conditions
+* regions
