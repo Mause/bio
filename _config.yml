@@ -1,2 +1,2 @@
 server: true
-# permalink: /:year/:title/
+permalink: /:title/
