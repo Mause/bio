@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 ---
 
 This is an introduction. Woop-de-doo!
