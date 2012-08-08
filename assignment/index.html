@@ -1,23 +1,28 @@
 ---
 layout: default
-title: Assignment
+title: Contents
 ---
 
 <section class="content">
   <!-- <h2>Assignment</h2> -->
 
   <h2>Contents;</h2>
-  </section>
 
+  <p>
+  Welcome to the website for my current biology assignment.<br>See below for  <a href="#contents">Contents</a>
+  </p> 
+</section>
+
+<div id="contents">
   <ul class="entries">
     {% for post in site.posts %}
 
     <li>
       <a href="/bio{{ post.url }}">
-        <!-- <img src="{{ post.image }}" /> -->
         <h3>{{ post.title }}</h3>
       </a>
     </li>
 
     {% endfor %}
   </ul>
+</div>
