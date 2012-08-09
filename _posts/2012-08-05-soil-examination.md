@@ -4,7 +4,6 @@ published: true
 title: Soil Examination
 ---
 
-<!-- ## Soil Examination -->
 
 * diagram in pencil
 * scale

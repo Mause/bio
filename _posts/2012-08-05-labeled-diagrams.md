@@ -4,8 +4,6 @@ published: true
 title: Labeled Diagrams
 ---
 
-<!-- ## Labeled Diagrams -->
-
 * 3 animals
 * at least 1 plant
 * used pencil

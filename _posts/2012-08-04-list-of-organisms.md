@@ -1,9 +1,9 @@
 ---
 layout: page_entry
 published: true
+title: List Of Organisms
 ---
 
-## List Of Organisms
 
 * list of organsisms
 * abundance
