@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page_entry
 published: true
+title: In General
 ---
 
-## In General
+<!-- ## In General -->
 
 * where community is
 * how extensive
