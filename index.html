@@ -1,12 +1,30 @@
 ---
 layout: default
-title : Home
+title: Contents
+alias: /
 ---
+
+<!-- <section class="content"> -->
+  <h2>Contents;</h2>
+<!-- </section> -->
+
+
+<ul class="entries">
+  {% for post in site.posts %}
+
+  <li>
+    <a href="/bio{{ post.url }}">
+      <h3>{{ post.title }}</h3>
+    </a>
+  </li>
+
+  {% endfor %}
+</ul>
 <!-- <section role="banner">
   <img src="/img/banner.jpg" />
 </section>
  -->
-<meta http-equiv="refresh" content="2;url=http://mause.me/bio/assignment">
+<!--<meta http-equiv="refresh" content="2;url=http://mause.me/bio/assignment">-->
 <!--<script>
     $.ready(function(){})
 </script>-->
