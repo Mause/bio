@@ -15,8 +15,8 @@ The wetlands where the research was performed are located on land owned by the M
 ### What was done
 The following was sampled from the area;
 
-   * water samples from both the input and output streams
-   * plant samples from plants in the area
-   * soil samples from both above and below water level :) 
+* water samples from both the input and output streams
+* plant samples from plants in the area
+* soil samples from both above and below water level :) 
 
 ### How was it done
