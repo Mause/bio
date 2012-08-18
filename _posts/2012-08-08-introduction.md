@@ -5,7 +5,8 @@ title: Introduction
 ---
 
 ### Purpose
-One thing that must be considered *before* any destruction is caused to an environment, if we wish to preserve the native flora and fauna, is ensure that an extensive environmental assessment is made of the area. Such assessments include noting down the various statistics for the area, such as terrestrial soil pH levels, ... etc, etc
+Our purpose was to perform a short study of the like in a freshwater habitat - first in the field, thence in the laboratory - to see which organisms are present in the study area, what said organisms are like, and what relationships they have with each other.
+<!-- One thing that must be considered *before* any destruction is caused to an environment, if we wish to preserve the native flora and fauna, is ensure that an extensive environmental assessment is made of the area. Such assessments include noting down the various statistics for the area, such as terrestrial soil pH levels, ... etc, etc -->
 
 ### Location
 The wetlands where the research was performed are located on land owned by the Margaret River Senior High School, at
