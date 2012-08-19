@@ -861,3 +861,9 @@ section #title .credits.right {
   font-size: 10px;
   /*color: #F0E790;*/
 }
+
+.less_on_bottom {
+    margin-bottom: 1px;
+}
+
+

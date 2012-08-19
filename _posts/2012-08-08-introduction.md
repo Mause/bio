@@ -5,18 +5,53 @@ title: Introduction
 ---
 
 ### Purpose
-Our purpose was to perform a short study of the like in a freshwater habitat - first in the field, thence in the laboratory - to see which organisms are present in the study area, what said organisms are like, and what relationships they have with each other.
-<!-- One thing that must be considered *before* any destruction is caused to an environment, if we wish to preserve the native flora and fauna, is ensure that an extensive environmental assessment is made of the area. Such assessments include noting down the various statistics for the area, such as terrestrial soil pH levels, ... etc, etc -->
+The overall purpose of this assignment was to perform a short study of the life in a freshwater habitat - first in the field, thence in the laboratory - to see which organisms were present in the study area, what said organisms were like, and what relationships they had with each other.
 
 ### Location
-The wetlands where the research was performed are located on land owned by the Margaret River Senior High School, at
+The wetlands where the assignment were performed are located on land owned by the Margaret River Senior High School, at
 [latitude:-33.958436&deg; longitude:115.070887&deg;](http://www.nearmap.com/?q=@-33.958432,115.070962&ll=-33.958432,115.070962&z=18&t=h&nmd=201009230).
 
-
 ### What was done
-The following was sampled from the area;
-* water samples from both the input and output streams
-* plant samples from plants in the area
-* soil samples from both above and below water level :) 
+<dl>
+    <dt>The following was sampled from the area;</dt>
+    <ul class="less_on_bottom">
+        <li>terrestrial plants samples</li>
+        <li>fringing plant samples</li>
+        <li>terrestrial soil sample</li>
+        <li>zoo/phytoplankton and macro-invertebrates samples from the two streams</li>
+        <li>open water bottom soil sample</li>
+        <li>zoo/phytoplankton and macro-invertebrates sweep sample</li>
+    </ul>
+</dl>
+
+<dl>
+    <dt>The following measurements were taken;</dt>
+    <ul>
+        <li>perimeter of terrestrial dry zone / perimeter of study area</li>
+        <li>open water body dimensions</li>
+        <ul class="less_on_bottom">
+            <li>circumference</li>
+            <li>width</li>
+            <li>length</li>
+        </ul>
+        <li>submerged pond reed zone thickness</li>
+        <li>dry fringing vegetation thickness</li>
+        <li>distance from Physical Education office to wetlands</li>
+        <li>direction from Physical Education office to wetlands</li>
+        <li>Dry land top soil top soil temperature</li>
+        <li>Dry land air temperature</li>
+        <li>Inlet stream temperature</li>
+        <li>Outlet stream temperature</li>
+        <li>Flowrate inlet stream</li>
+        <li>Flowrate outlet stream</li>
+        <li><a href="/bio/in-general">An open water depth profile</a></li>
+    </ul>
+</dl>
+
+
+
+
+
+
 
 ### How was it done
