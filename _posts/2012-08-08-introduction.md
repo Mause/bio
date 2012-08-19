@@ -36,7 +36,7 @@ The wetlands where the assignment were performed are located on land owned by th
         </ul>
         <li>submerged pond reed zone thickness</li>
         <li>dry fringing vegetation thickness</li>
-        <li>distance from Physical Education office to wetlands</li>
+        <li>distance from Physical Education office to wetlands</li> <!-- 372.10456273584219 meters -->
         <li>direction from Physical Education office to wetlands</li>
         <li>Dry land top soil top soil temperature</li>
         <li>Dry land air temperature</li>
@@ -49,9 +49,5 @@ The wetlands where the assignment were performed are located on land owned by th
 </dl>
 
 
-
-
-
-
-
 ### How was it done
+On the day of the "expedition", the whole class trooped down to the farm to grab some water-proof footwear (read: wellies), and proceeded to make their way to the wetlands actual. Once there, each everyone grouped/paired off and conducted their respective duties.
