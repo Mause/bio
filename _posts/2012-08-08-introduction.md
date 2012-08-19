@@ -50,4 +50,4 @@ The wetlands where the assignment were performed are located on land owned by th
 
 
 ### How was it done
-On the day of the "expedition", the whole class trooped down to the farm to grab some water-proof footwear (read: wellies), and proceeded to make their way to the wetlands actual. Once there, each everyone grouped/paired off and conducted their respective duties.
+On the day of the "expedition", the whole class trooped down to the farm to grab some water-proof footwear (read: wellies), and proceeded to make their way to the wetlands actual. Once there, everyone grouped/paired off and conducted their respective duties.
