@@ -5,7 +5,7 @@ title: Introduction
 ---
 
 ### Purpose
-The overall purpose of this assignment was to perform a short study of the life in a freshwater habitat - first in the field, thence in the laboratory - to see which organisms were present in the study area, what said organisms were like, and what relationships they had with each other. <!-- This is bullshit; giving us homework while you want us to simultenously be on top of this damn assignment. Howevermuch it may have been repeated beforehand, think before you do. Please -->
+The overall purpose of this assignment was to perform a short study of the life in a freshwater habitat - first in the field, thence in the laboratory - to see which organisms were present in the study area, the characteristics of said organisms, and what relationships they had with each other. <!-- This is bullshit; giving us homework while you want us to simultaneously be on top of this damn assignment. However much it may have been repeated beforehand, think before you do. Please -->
 
 ### Location
 The wetlands where the assignment were performed are located on land owned by the Margaret River Senior High School, at
@@ -52,13 +52,4 @@ On the day of the "expedition", the whole class trooped down to the farm to grab
 </dl>
 
 
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
