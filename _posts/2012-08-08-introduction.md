@@ -11,6 +11,9 @@ The overall purpose of this assignment was to perform a short study of the life 
 The wetlands where the assignment were performed are located on land owned by the Margaret River Senior High School, at
 [latitude:-33.958436&deg; longitude:115.070887&deg;](http://www.nearmap.com/?q=@-33.958432,115.070962&ll=-33.958432,115.070962&z=18&t=h&nmd=201009230).
 
+### How was it done
+On the day of the "expedition", the whole class trooped down to the farm to grab some water-proof footwear (read:  wellies), and proceeded to make their way to the wetlands actual. Once there, everyone grouped/paired off and conducted their respective duties. Me and my good friend Matthew grabbed a pile of re-sealable bags and began to collect plant samples, whilst simultaneously writing down their original location. <!-- What else do you want me to write? I don't know what to write, i never know what to write! That is my reply whenever someone asks me why i can't finish an essay; the truthful one, that is. -->Other people completed their own appropriate activities, all of which are listed below :)
+
 ### What was done
 <dl>
     <dt>The following was sampled from the area;</dt>
@@ -49,8 +52,6 @@ The wetlands where the assignment were performed are located on land owned by th
 </dl>
 
 
-### How was it done
-On the day of the "expedition", the whole  class trooped down to the  farm to grab some  water-proof footwear (read:  wellies), and proceeded to make their way to the wetlands actual. Once there, everyone grouped/paired off and conducted their respective duties. Me and my good friend Matthew grabbed a pile of re-sealable bags and began to collect plant samples, whilst simultaneously writing down their original location. <!-- What else do you want me to write? I don't know what to write, i never know what to write! That is my reply whenever someone asks me why i can't finish an essay; the truthful one, that is. --> Other people completed other appropriate activities, all of which are listed above :)
 
 
 
